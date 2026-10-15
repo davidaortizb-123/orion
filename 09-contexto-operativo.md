@@ -1,4 +1,4 @@
-# 8. Contexto académico y problemática operativa — ORIÓN
+# 8. Contexto Operativo y problemática — ORIÓN
 
 La operación de eventos necesita coordinar personas de varias empresas, asignarlas a sectores y funciones, verificar documentos y controlar su acreditación. Si los datos se consolidan manualmente, la coordinación puede tardar más y los reportes pueden quedar desactualizados.
 
