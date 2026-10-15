@@ -4,7 +4,3 @@ La información del personal logístico de eventos puede estar repartida entre h
 
 ORIÓN propone centralizar la información del personal, las empresas, las producciones, los documentos, las acreditaciones y los costos operativos. La meta es mejorar la trazabilidad y facilitar decisiones basadas en datos.
 
-## Implementación
-- `operacion/models.py`: estructura de datos.
-- `operacion/views.py`: consultas y operaciones del sistema.
-- `templates/operacion/dashboard.html`: resumen operativo.
